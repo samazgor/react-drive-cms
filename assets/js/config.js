@@ -1,9 +1,9 @@
 configReactDriveCms = {
-    author: 'Your Author Name',
+    author: 'Sam Azgor',
     /**
      * Add the Id for the Google Sheets Dashboard file
      */
-    dashboardId: 'YOUR-GOOGLE-DRIVE-SHEET-DASHBOARD-ID',
+    dashboardId: '15LnM1MgqUUOZuHONk91zlGNa4i8wzv9x4EzOCUjpXxw',
     /**
      * Add the Url Id for the Google Web App Script to forward email from the Contact Form
      */
@@ -11,5 +11,5 @@ configReactDriveCms = {
     /**
      * Add your Disqus shortname
      */
-    shortname: 'your-disqus-shortname'
+    shortname: 'samazgor'
 };
